@@ -1,4 +1,4 @@
-## 𝗪𝗘𝗟𝗖𝗢𝗠E 𝗧𝗢 𝗝𝗔𝗠𝗘𝗦 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
+## 𝗪𝗘𝗟𝗖𝗢𝗠E 𝗧𝗢 lETHABO 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`LETHABO+MD)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=+✚+✚+✚+✚+✚+✚+✚+✚+✚+✚+✜+✜+✚+✚+✚+✚)](https://git.io/typing-svg) 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=LETHABO`💧༑༑+𝗠𝗗+𝗕𝗢𝗧`💧༑༑+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+`💧༑༑MAPHOSA)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=LETHABO`💧༑༑+𝗠𝗗+𝗕𝗢𝗧`💧+𝗕𝗬+`💧༑༑MAPHOSA)](https://git.io/typing-svg) 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
