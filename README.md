@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`LETHABO+MD)](https://git.io/typing-svg)
 
-<p align="centre"><img src="https://files.catbox.moe/7x56tx.jpg" width="900" height="200" />
+<p align="centre"><img src="https://files.catbox.moe/kda960.jpg" width="900" height="200" />
 
 
 ## 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗜𝗦 𝗦𝗔𝗙𝗘 𝗢𝗡 𝗛𝗘𝗥𝗢𝗨𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
@@ -21,7 +21,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=900&height=60&lines=𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦`💧༑༑+𝗙𝗢𝗥+LETHABO`💧༑༑+𝗠𝗗+𝗕𝗢𝗧+`💧༑༑)](https://git.io/typing-svg) 
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{JAMES-MD}/count.svg" alt="James :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mustaffa}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{LETABO-MD}/count.svg" alt="MAPHOSA :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mustaffa}/count.svg" /></p>
 
 
 
@@ -59,7 +59,7 @@
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/jtechde/james"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=green&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/SMASHER-jay/Lethabo"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=green&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭`༑+▬+`💧▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -69,7 +69,7 @@
 
 ## FINAL`💧༑ REMARKS `💧༑༑ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=neon)
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=SMASHER-jay&repo=Lethabo&show_owner=true&theme=neon)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -77,15 +77,9 @@
 ## CONTACT💧༑༑ MAPHOSA ༑༑TECH HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://wa.me/message/7CB5GF5SCBEKG1"><img title="CONTACT-JAMES" src="https://img.shields.io/badge/CONTACT-JAMES-h?color=black&style=for-the-badge&logo=WhatsApp" width="240" height="45"/></a></p>
+   <a href="https://wa.me/254796087764"><img title="CONTACT-MAPHOSA" src="https://img.shields.io/badge/CONTACT-MAPHOSA-h?color=black&style=for-the-badge&logo=WhatsApp" width="240" height="45"/></a></p>
 
-<a
-href="https://www.facebook.com/profile.php?id=61565000497815"><img title="CHAT FACEBOOK" src="https://img.shields.io/badge/FACEBOOK-h?colour=blue&style=for-the-badge&logo=Facebook" width="240" height="45.45" /></a></p>
 
-<a
-href="t.me/jamestechke"><img title="CHAT TELEGRAM" src="https://img.shields.io/badge/TELEGRAM-h?colour=blue&style=for-the-badge&logo=Telegram" width="240" height="45.45" /></a></p>
-
- 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
